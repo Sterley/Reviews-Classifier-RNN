@@ -1,1 +1,1 @@
-Le but de ce TP est d’implémenter et entraîner un réseau de neurones récurrent (RNN) sur une tâche de classification de textes. Voir le rapport pour plus de détails.
+The aim of this project is to implement and train a recurrent neural network (RNN) on a text classification task. See the report for more details.
